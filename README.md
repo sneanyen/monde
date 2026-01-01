@@ -1,4 +1,4 @@
-# Monde - WordPress Project Gallery Plugin
+# monde - WordPress Project Gallery Plugin
 
 ![Version](https://img.shields.io/badge/version-3.1-blue.svg)
 ![WordPress](https://img.shields.io/badge/WordPress-5.0%2B-brightgreen.svg)
